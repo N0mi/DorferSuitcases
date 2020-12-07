@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3919593c62979324fb3695e3215cbb9c, type: 3}
   m_Name: Box
   m_EditorClassIdentifier: 
-  logo: {fileID: -2476258253311705711, guid: 01591b9059aa07c43b98f2612f28a5f9, type: 3}
+  image: {fileID: -2476258253311705711, guid: 01591b9059aa07c43b98f2612f28a5f9, type: 3}
   width: 2
   height: 2
+  sizeCorrect: {x: 1.7, y: 1.7, z: 1}

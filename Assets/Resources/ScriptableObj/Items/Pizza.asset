@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3919593c62979324fb3695e3215cbb9c, type: 3}
   m_Name: Pizza
   m_EditorClassIdentifier: 
-  logo: {fileID: -7593663360690973604, guid: 01591b9059aa07c43b98f2612f28a5f9, type: 3}
+  image: {fileID: -7593663360690973604, guid: 01591b9059aa07c43b98f2612f28a5f9, type: 3}
   width: 2
   height: 1
+  sizeCorrect: {x: 1, y: 1, z: 1}
